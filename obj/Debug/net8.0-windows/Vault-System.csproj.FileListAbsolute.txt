@@ -18,3 +18,4 @@ D:\Repositories\Vault-System\obj\Debug\net8.0-windows\refint\Vault-System.dll
 D:\Repositories\Vault-System\obj\Debug\net8.0-windows\Vault-System.pdb
 D:\Repositories\Vault-System\obj\Debug\net8.0-windows\Vault-System.genruntimeconfig.cache
 D:\Repositories\Vault-System\obj\Debug\net8.0-windows\ref\Vault-System.dll
+D:\Repositories\Vault-System\obj\Debug\net8.0-windows\Vault-System.sourcelink.json

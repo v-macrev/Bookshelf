@@ -11,14 +11,21 @@
 
     <Grid Margin="0,10,0,0">
 
-        <!-- Content area -->
         <Border Background="#040D12" CornerRadius="15" Margin="0,-10,0,0">
             <Grid>
-                <!-- Your Buttons go here -->
+                <!-- Window Buttons -->
                 <Button Content="_" Background="Transparent" HorizontalAlignment="Left" VerticalAlignment="Top" Width="30" Click="MinimizeButton_Click" Margin="704,10,0,0" Height="24" BorderBrush="#00707070" Foreground="#FF183D3D"/>
                 <Button Content="◻" Background="Transparent" HorizontalAlignment="Left" VerticalAlignment="Top" Width="30" Click="MaximizeRestoreButton_Click" Margin="734,10,0,0" Height="24" BorderBrush="#00707070" Foreground="#FF183D3D"/>
                 <Button Content="✖" Background="Transparent" HorizontalAlignment="Right" VerticalAlignment="Top" Width="30" Click="CloseButton_Click" Height="24" BorderBrush="#00707070" Foreground="#FF183D3D" Margin="0,10,6,0"/>
-                <Label Content="Login" HorizontalAlignment="Center" Margin="0,37,0,0" VerticalAlignment="Top" Height="74" Width="232" Foreground="#FF183D3D" FontSize="48"/>
+
+                <Grid Background="#FF041B1B" Margin="179,159,179,84">
+                    <TextBox HorizontalAlignment="Center" Margin="0,28,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="384" Height="31" Background="#FF183D3D" BorderBrush="{x:Null}" Foreground="#FF5C8374"/>
+                    <PasswordBox HorizontalAlignment="Center" VerticalAlignment="Top" Width="384" Height="31" Margin="0,74,0,0" Background="#FF183D3D" BorderBrush="{x:Null}" Foreground="#FF5C8374"/>
+                    <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="329,117,0,0" VerticalAlignment="Top" Background="#FF040D12" BorderBrush="{x:Null}" Foreground="White"/>
+                    <Button Content="Button" HorizontalAlignment="Center" Margin="0,150,0,0" VerticalAlignment="Top" Height="33" Width="384" Background="#FF93B1A6" Foreground="#FF040D12"/>
+                    <Label Content="LOGIN" HorizontalAlignment="Center" Margin="0,-90,0,0" VerticalAlignment="Top" FontSize="48" Foreground="#FF183D3D"/>
+
+                </Grid>
             </Grid>
         </Border>
     </Grid>
