@@ -1,2 +1,2 @@
-# vault-system
- a Inventory application made using C# and .NET
+# Bookshelf
+A Library system using ASP.NET Core MVC Architecture
