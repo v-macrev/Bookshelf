@@ -2,3 +2,4 @@
 * text=auto
 
 Dockerfile linguist-vendored
+.dockerignore linguist-vendored
