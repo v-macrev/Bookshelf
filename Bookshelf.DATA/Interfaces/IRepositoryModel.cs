@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bookshelf.DATA.Interfaces
 {
-    internal interface IRepositoryModel<T> where T : class
+    public interface IRepositoryModel<T> where T : class
     {
         List<T> GetAll();
         T GetById(params object[] id);

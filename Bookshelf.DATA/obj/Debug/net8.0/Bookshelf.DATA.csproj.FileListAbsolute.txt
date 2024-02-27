@@ -1,0 +1,13 @@
+D:\Repositories\Bookshelf\Bookshelf.DATA\bin\Debug\net8.0\Bookshelf.DATA.deps.json
+D:\Repositories\Bookshelf\Bookshelf.DATA\bin\Debug\net8.0\Bookshelf.DATA.dll
+D:\Repositories\Bookshelf\Bookshelf.DATA\bin\Debug\net8.0\Bookshelf.DATA.pdb
+D:\Repositories\Bookshelf\Bookshelf.DATA\obj\Debug\net8.0\Bookshelf.DATA.csproj.AssemblyReference.cache
+D:\Repositories\Bookshelf\Bookshelf.DATA\obj\Debug\net8.0\Bookshelf.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Bookshelf\Bookshelf.DATA\obj\Debug\net8.0\Bookshelf.DATA.AssemblyInfoInputs.cache
+D:\Repositories\Bookshelf\Bookshelf.DATA\obj\Debug\net8.0\Bookshelf.DATA.AssemblyInfo.cs
+D:\Repositories\Bookshelf\Bookshelf.DATA\obj\Debug\net8.0\Bookshelf.DATA.csproj.CoreCompileInputs.cache
+D:\Repositories\Bookshelf\Bookshelf.DATA\obj\Debug\net8.0\Bookshelf.DATA.sourcelink.json
+D:\Repositories\Bookshelf\Bookshelf.DATA\obj\Debug\net8.0\Bookshelf.DATA.dll
+D:\Repositories\Bookshelf\Bookshelf.DATA\obj\Debug\net8.0\refint\Bookshelf.DATA.dll
+D:\Repositories\Bookshelf\Bookshelf.DATA\obj\Debug\net8.0\Bookshelf.DATA.pdb
+D:\Repositories\Bookshelf\Bookshelf.DATA\obj\Debug\net8.0\ref\Bookshelf.DATA.dll
